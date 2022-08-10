@@ -11,4 +11,4 @@ Para testar o código de maneira simples recomendo apenas seguir os seguintes pa
 4. Clicar no botão verde escrito "RUN" como indicado pela seta verde na imagem.
 5. Após isso apenas digite o número na caixa de texto a direita e clique em no botão Enter do teclado.
 
-![Imagem](https://github.com/BrunoVini/desafio-1-escribo/blob/main/exemplo.png?raw=true)3
+![Imagem](https://github.com/BrunoVini/desafio-1-escribo/blob/main/exemplo.png?raw=true)
