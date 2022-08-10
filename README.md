@@ -4,7 +4,7 @@
 ### Sobre o Desafio
 
 Fiz o mais enxuto e com tratativa de erros usando a linguagem Dart. \
-Para testar o código de maneira simples recomendo apenas seguir os seguintes passos. \
+Para testar o código de maneira simples recomendo apenas seguir os seguintes passos. 
 1. Copiar o código do arquivo [func.dart](https://github.com/BrunoVini/desafio-1-escribo/blob/main/func.dart).
 2. Acessar o site https://replit.com/languages/dart que é um editor de código online.
 3. Colar o código na caixa de text a esquerda como indicado pela seta azul na imagem abaixo. 
