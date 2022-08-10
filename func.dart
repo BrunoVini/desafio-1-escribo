@@ -22,11 +22,11 @@ print('Digite um número inteiro positivo: ');
 }
 
 sum(int a) {
-  var arr = [];
+  var sum_numbers = 0;
   for (var i = 0; i < a; i++) {
     if (i % 3 == 0 || i % 5 == 0) {
-      arr.add(i);
+      sum_numbers += i;
     }
   }
-  return arr.reduce((a, b) => a + b);
+  return sum_numbers;
 }
